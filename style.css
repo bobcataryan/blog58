@@ -1,0 +1,24 @@
+#footer{
+    margin-bottom: 0;
+    bottom: 0;
+    background-color: gray;
+    color: white;
+    position: fixed;
+
+}
+
+body{
+    background-size: cover;
+
+}
+
+canvas{
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: ridge;
+    border-color: black;
+}
+
+#changer{
+    margin-top: 650px;
+}
